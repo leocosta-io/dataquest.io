@@ -1,2 +1,2 @@
 # dataquest.io
-Dataquest projects
+Personal data projects created for courses in https://dataquest.io
